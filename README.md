@@ -1,2 +1,2 @@
-# IEXEMITIO298
+# ProductoZero
 Proyectos Maestría en Tecnología de la Informacion
